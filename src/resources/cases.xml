@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>Timofey</firstName>
+        <lastName>Shagray</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Konstantin</firstName>
+        <lastName>Muraveiko</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Alexander</firstName>
+        <lastName>Savchuk</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>Matvey</firstName>
+        <lastName>Lobyak</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Nikita</firstName>
+        <lastName>Kazapolyanskiy</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>Alex</firstName>
+        <lastName>Blake</lastName>
+    </case>
+</cases>
